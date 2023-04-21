@@ -1,0 +1,90 @@
+:root {
+    --max-content-width: 590px;
+    --default-border-radius: 4px;
+}
+
+.faq{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: auto auto;
+    position: absolute;
+    top: 200%;
+    left: 0;
+    background-position: center;
+    text-align: center;
+}
+
+h2 {
+    font-weight: 800px;
+    font-size: 100%;
+    letter-spacing: 0;
+}
+
+article{
+    display: block;
+    margin: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+}
+
+.faq_title {
+    color: #eeeeee !important;
+    margin-top: 80px;
+    font-size: 30px;
+    line-height: 20px;
+    letter-spacing: -0.05em;
+    font-weight: 800;
+    font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+    
+}
+
+.faq_content {
+    padding: 35px 365px;
+    font-family: "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+
+}
+
+div{
+    margin: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.faq_section {
+    border-top: 1px solid #e5e5e5;
+    padding-left: 50px;
+    border-color: #333333;
+}
+
+.faq_header{
+    padding: 25px 0;
+    position: relative;
+}
+
+.faq_question {
+    padding: 0;
+    font-size: 21px;
+    line-height: 25px;
+    font-weight: 545;
+}
+
+header{
+    margin: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+h3{
+    display: block;
+    margin-top: auto;
+    text-align: left;
+}
+
+
+

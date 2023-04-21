@@ -1,0 +1,18 @@
+.LastImage {
+    position:absolute;
+    width: 100%;
+    background-color: #58B792;
+    margin: 0 0;
+    top:152%;
+    left:0;
+    z-index:-1;
+    background-position: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 890px;
+    height: auto;
+    position: relative;
+}
